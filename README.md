@@ -1,4 +1,4 @@
-meArmPi
+meArmPi (python3)
 =======
 
 Inverse Kinematics movement control library in Python for Phenoptix meArm on Raspberry Pi via Adafruit PWM Servo driver.
